@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\ConsoleApp1\\ConsoleApp1.csproj": {}
+    "C:\\Учеба\\Инструментальные средства информационных систем\\Лабораторные\\Lr5\\ystu_lab\\ConsoleApp1.csproj": {}
   },
   "projects": {
-    "D:\\ConsoleApp1\\ConsoleApp1.csproj": {
+    "C:\\Учеба\\Инструментальные средства информационных систем\\Лабораторные\\Lr5\\ystu_lab\\ConsoleApp1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\ConsoleApp1\\ConsoleApp1.csproj",
+        "projectUniqueName": "C:\\Учеба\\Инструментальные средства информационных систем\\Лабораторные\\Lr5\\ystu_lab\\ConsoleApp1.csproj",
         "projectName": "ConsoleApp1",
-        "projectPath": "D:\\ConsoleApp1\\ConsoleApp1.csproj",
+        "projectPath": "C:\\Учеба\\Инструментальные средства информационных систем\\Лабораторные\\Lr5\\ystu_lab\\ConsoleApp1.csproj",
         "packagesPath": "C:\\Users\\assas\\.nuget\\packages\\",
-        "outputPath": "D:\\ConsoleApp1\\obj\\",
+        "outputPath": "C:\\Учеба\\Инструментальные средства информационных систем\\Лабораторные\\Lr5\\ystu_lab\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\assas\\AppData\\Roaming\\NuGet\\NuGet.Config",
